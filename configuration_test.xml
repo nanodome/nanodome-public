@@ -1,0 +1,14 @@
+<MESO_SIM>
+	<CONDITIONS>
+		<LINK_PATH> </LINK_PATH>
+	</CONDITIONS>
+	
+	<DATA_PLOT>
+	
+	</DATA_PLOT>
+	
+	<MODEL>
+		<MODEL_TYPE> Langevin </MODEL_TYPE>
+	
+	</MODEL>
+</MESO_SIM
